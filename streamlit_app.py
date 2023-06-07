@@ -58,7 +58,7 @@ streamlit.write('The user entered ', fruit_choice)
 
 
 # Don't run anything past here while we troubleshoot
-streamlit.stop()
+# streamlit.stop()
 
 # Query from Snowflake
 
